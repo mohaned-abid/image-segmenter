@@ -9,3 +9,6 @@ I used a modified UNET architecture and  trained it using images and segmentatio
 
 after evaluating the model I deployed my work on heroku and I'm currently still working on on the model API that segments the input images
 
+
+
+HOSTED PROJECT: https://imgsegg.herokuapp.com/
